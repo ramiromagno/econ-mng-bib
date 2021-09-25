@@ -14,3 +14,7 @@ Note that more specific patterns take precedence over the default pattern.
 
 In JabRef, these settings can be found in the *Options* menu, *Preferences*, in the *Citation key patterns* tab. For the list of possible field markers, visit JabRef's website on how to [customize the citation key generator](https://docs.jabref.org/setup/citationkeypatterns).
 
+## Useful links
+
+- https://editor.citationstyles.org/searchByName/
+- https://www.zotero.org/styles
